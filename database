@@ -1,10 +1,16 @@
-`FAC Elo
-`TYP Typ 1
-`TYP Typ 2
-`WPN super\SUPCIO\pomelo;giga;chad
-`PRF 4\4\4\4
-`PRF wo\wo\wo\wo
-`FAC Żelosław Chad
-`WPN elo\elozelo\su;du;mu;lu
-`PRF 4\5\9
-`TYP POMELCIO
+`WPN Bolter\Bolter\PrimaryRanged
+`PRF 24"\Rapid Fire 1\4\-1\1\Critical Hit (6+)
+`WGR Know No Fear\Know No Fear\This model automatically passes all leadership checks.
+`MDL Tactical Marine\20\Tactical Marine\0\Infantry;Space Marines
+`STA 0\7"\3+\3+\4\4\0\0\2\2\12\3+\4
+`WPN Bolter
+`WGR Know No Fear
+`MDL Tactical Marine Sergeant\20\Tactical Marine Sergeant\0\Infantry;Space Marines
+`STA 0\7"\3+\3+\4\4\0\0\2\2\12\3+\4
+`WPN Bolter
+`WGR Know No Fear
+`FAC Imperium - Space Marines
+`TYP Troops
+`UNI Tactical Marine Squad\5\10\Tactical Marine;Tactical Marine;Tactical Marine;Tactical Marine;Tactical Marine Sergeant
+`OPT Tactical Marines\0\
+`OPE Tactical Marines\20\\\\Tactical Marine\\
